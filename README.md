@@ -1,2 +1,2 @@
 # Yapay-Zeka-ve-Depremler_MKemalGULER
-finalproject of GLOBAL AI HUB Python Bootcamp
+finalproject of GLOBAL AI HUB 
